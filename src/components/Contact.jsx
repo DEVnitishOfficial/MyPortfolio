@@ -13,7 +13,7 @@ const Contact = () => {
           </span>
         </h1>
         <p className='text-center text-lg font-semibold text-gray-500'>
-          Want to chat? Send me an E-mail through this Form and I&apos;ll respond as soon as possible.
+        Feel free to reach out to me through this form for any inquiries or connections. I will respond as soon as possible.
         </p>
         {/* <a href="mailto:nitish.naroun123@gmail.com" className="text-nowrap rounded-lg border border-indigo-600 bg-black px-5 py-3 text-lg font-bold text-white shadow-lg shadow-indigo-700 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl hover:shadow-indigo-600">Contact me</a> */}
 
