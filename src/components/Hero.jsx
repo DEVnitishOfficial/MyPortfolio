@@ -24,7 +24,7 @@ const Hero = () => {
                 <h3 className='bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl md:text-3xl'>
                     FullStack Developer
                 </h3>
-                <p className='md:text-base text-pretty text-sm text-gray-400'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus placeat doloremque praesentium? Enim excepturi corporis eos voluptas quas laborum inventore nobis, magni ad expedita doloribus omnis nihil. Distinctio ea facilis labore amet ad voluptatibus ratione cumque repudiandae asperiores, ex sed inventore, mollitia quia consequuntur voluptas. Non laudantium sapiente totam sunt.</p>
+                    <p className='md:text-base text-pretty text-sm text-gray-400'>I am a passionate full-stack developer with expertise in the MERN stack, including Git, GitHub, DigitalOcean, Typescipt and Tailwind CSS etc, I successfully completed a full-stack web development internship at Appwars Pvt Ltd under the guidance of Shahnawaz Sir, creating several projects showcased on GitHub, with deployments on Netlify and DigitalOcean. I am currently seeking full-stack development opportunities to contribute my skills and grow professionally.</p>
             </motion.div>
 
         </div>
