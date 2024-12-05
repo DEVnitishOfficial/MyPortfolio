@@ -111,21 +111,27 @@ const Navbar = () => {
           </ul>
 
           <ul className='flex flex-wrap gap-8'>
-            <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100 '>
-              <BsYoutube />
-            </li>
-            <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100 '>
-              <BsLinkedin />
-            </li>
-            <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100 '>
-              <BsTwitter />
-            </li>
-            <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100 '>
-              <BsGithub />
-            </li>
-            <li className='cursor-pointer text-2xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100 '>
-              <SiNetlify />
-            </li>
+          <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-red-500 hover:opacity-100 '>
+          <BsYoutube />
+        </li>
+        <a href='https://www.linkedin.com/feed/'>
+          <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100 '>
+            <BsLinkedin />
+          </li>
+        </a>
+        <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100 '>
+          <BsTwitter />
+        </li>
+        <a href='https://github.com/DEVnitishOfficial'>
+          <li className='cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-white-500 hover:opacity-100 '>
+            <BsGithub />
+          </li>
+        </a>
+        <a href='https://app.netlify.com/teams/dnkn123nitish/sites'>
+          <li className='cursor-pointer text-2xl opacity-70 transition-all duration-300 hover:text-blue-500 hover:opacity-100 '>
+            <SiNetlify />
+          </li>
+        </a>
           </ul>
         </div>
       )}
