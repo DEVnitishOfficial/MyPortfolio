@@ -11,7 +11,7 @@ const projectData = [
   {
     image: lms,
     title: 'LMS',
-    url: 'https://learning-management-system-h32ei.ondigitalocean.app/',
+    url: 'https://walrus-app-6qy8m.ondigitalocean.app/',
     description:
       'Developed a Fullstack Learning Management System (LMS) using the MERN stack and tools like Razorpay and Cloudinary. Features include an admin dashboard for course management, user authentication with JWT, and seamless course purchase integration. Enhanced UI with DaisyUI and Tailwind CSS for an intuitive user experience.',
     technologies: ['HTML5','TAILWIND_CSS','DAISY_UI','REACT_JS','REACT-REDUX','RTK','REACT-HOT-TOAST','AXIOS','CHART_JS','NODE_JS','MONGOD_DB','EXPRESS','MONGOOSE','BCRYPT_JS','JWT','NODE_MAILER','RAZORPAY','MULTER','CLOUDINARY','MORGAN','NODEMON','CORS']
@@ -19,7 +19,7 @@ const projectData = [
   {
     image: aadhar_,
     title: 'PRINT_AADHAR',
-    url: 'https://stingray-app-sblwp.ondigitalocean.app/',
+    url: 'https://print-aadhar-egdcr.ondigitalocean.app/',
     description:
       'Developed a Aadhar generation system where user will enter their detail name and address with aadhar Number and a clear image and we will generate a Aadhar card using that Information',
     technologies: ['HTML5','TAILWIND_CSS','NODE_JS','MONGOD_DB','EXPRESS','MONGOOSE','MULTER','CLOUDINARY','FETCH_API']
